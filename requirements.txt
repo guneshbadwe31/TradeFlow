@@ -1,0 +1,14 @@
+### dependency
+streamlit
+tensorflow	
+sklearn	
+scikit-learn	
+Pandas	
+jinja2	
+keras
+datetime
+matplotlib
+pyplot
+pandas_datareader
+yfinance
+keras
